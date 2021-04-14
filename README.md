@@ -12,8 +12,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>   
 </div>
   
-  ##
-  
-  <div>
-  <a href="https://www.linkedin.com/in/andrepapagimenes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://github.com/deehpapa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.deehpapa.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="aChurch's github stats" />
+</a>
+<a href="https://github.com/deehpapa/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deehpapa&layout=compact&theme=material-palenight" />
+</a>
