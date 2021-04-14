@@ -1,4 +1,4 @@
-## Olá! Eu sou o aChurch!
+## Olá! Eu sou o aChurch! 🖖🏼
  <div>
   <a href="https://github.com/deehpapa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deehpapa&show_icons=true&theme=material-palenight&include_all_commits=false&count_private=true"/>
