@@ -1,8 +1,9 @@
 ## Olá! Eu sou o aChurch!
  <div>
   <a href="https://github.com/deehpapa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deehpapa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deehpapa&show_icons=true&theme=material-palenight&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deehpapa&layout=compact&langs_count=8&theme=material-palenight"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 <div style="display: inline_block"><br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
