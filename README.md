@@ -1,5 +1,3 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=deehpapa" alt="deehpapa"/></p>
-
 ## Olá! Eu sou o aChurch! 🖖🏼
  <div>
   <a href="https://github.com/deehpapa">
